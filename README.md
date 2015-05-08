@@ -2,6 +2,10 @@ Java TWAIN
 =========
 The demo shows how to implement a simple TWAIN scanner software, which calls .NET methods in Java via JNI.
 
+Screenshots
+-----------
+![image](http://www.codepool.biz/wp-content/uploads/2014/06/Java_twain.png)
+
 How-to
 -----------
 1. Download [Dynamic .NET TWAIN][1]
