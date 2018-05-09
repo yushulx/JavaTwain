@@ -9,7 +9,7 @@ Screenshots
 How-to
 -----------
 1. Download [Dynamic .NET TWAIN][1]
-2. Download and learn [jni4net][2] to understand how JVM and CLR work together
+2. Download and learn [jni4net][2] v0.8.8 to understand how JVM and CLR work together
 3. Correctly configure the paths of JAVA_HOME and  C:\Windows\Microsoft.NET\Framework\v3.5\csc.exe in the system environment
 4. Unzip the sample code, and launch JavaTwain.sln to build JavaTwain.dll
 5. Copy bin and lib folders from jni4net package to your project directory

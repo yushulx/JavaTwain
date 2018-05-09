@@ -8,4 +8,4 @@ call build.cmd
 cd ..
 
 echo compiling usage
-javac -d work\ -cp work\jni4net.j-0.8.6.0.jar;work\JavaTwain.j4n.jar ScanDocuments.java
+javac -d work\ -cp work\jni4net.j-0.8.8.0.jar;work\JavaTwain.j4n.jar ScanDocuments.java
