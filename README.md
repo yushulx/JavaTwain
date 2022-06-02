@@ -4,7 +4,7 @@ The demo shows how to implement a simple TWAIN scanner software, which calls .NE
 
 Screenshots
 -----------
-![image](http://www.codepool.biz/wp-content/uploads/2014/06/Java_twain.png)
+![image](https://www.dynamsoft.com/codepool/img/2014/06/Java_twain.png)
 
 How-to
 -----------
